@@ -21,6 +21,7 @@
 ### TODO
 1. What's there TODO for this todo list?
 2. Separate out logic processing functions into a lib
-3. Unit / functinal testing
+3. Unit / functional testing
+4. Can we edit existing task?
 
 
