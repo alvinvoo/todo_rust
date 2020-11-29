@@ -17,3 +17,10 @@
  * 8. ToDo list will be refreshed and display all tasks again after operation no. 3,5 and 7
  * 9. Type 's' and [enter] to save ToDo list to txt file
  * 10. Type 'e' and [enter] to save ToDo list and exit program
+
+### TODO
+1. What's there TODO for this todo list?
+2. Separate out logic processing functions into a lib
+3. Unit / functinal testing
+
+
